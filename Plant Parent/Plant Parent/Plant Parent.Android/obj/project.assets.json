@@ -2322,11 +2322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Documents\\GIMM\\440\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.Android\\Plant Parent.Android.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Documents\\GitHub\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.Android\\Plant Parent.Android.csproj",
       "projectName": "Plant Parent.Android",
-      "projectPath": "C:\\Users\\John\\Documents\\GIMM\\440\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.Android\\Plant Parent.Android.csproj",
+      "projectPath": "C:\\Users\\John\\Documents\\GitHub\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.Android\\Plant Parent.Android.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Documents\\GIMM\\440\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.Android\\obj\\",
+      "outputPath": "C:\\Users\\John\\Documents\\GitHub\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2343,8 +2343,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\John\\Documents\\GIMM\\440\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent\\Plant Parent.csproj": {
-              "projectPath": "C:\\Users\\John\\Documents\\GIMM\\440\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent\\Plant Parent.csproj"
+            "C:\\Users\\John\\Documents\\GitHub\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent\\Plant Parent.csproj": {
+              "projectPath": "C:\\Users\\John\\Documents\\GitHub\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent\\Plant Parent.csproj"
             }
           }
         }

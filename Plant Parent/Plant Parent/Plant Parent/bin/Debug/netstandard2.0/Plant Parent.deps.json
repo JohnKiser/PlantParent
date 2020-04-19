@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "5809d9548869abc5be2bf1cfb8eeed13172dafeb"
+    "signature": "6376c6dff85e2fd70dd84f1f511fcbf828c8bfad"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "Plant Parent/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Plugin.PushNotification": "3.1.1",
           "Xamarin.Forms": "3.4.0.1008975",
           "sqlite-net-pcl": "1.5.231",
           "Microsoft.Data.Tools.Schema.Sql.UnitTesting": "15.1.0.0",
@@ -23,6 +24,14 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Plugin.PushNotification/3.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.PushNotification.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
         }
       },
       "sqlite-net-pcl/1.5.231": {
@@ -117,6 +126,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Plugin.PushNotification/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/FYDPiBLQQrp4PW5ERhnvBKDlxdbbRAQZc6y9uvzM7yiyN4XIzl51qMiWw2CsTxpkQbVVdjH52JxZynq0sanxg==",
+      "path": "plugin.pushnotification/3.1.1",
+      "hashPath": "plugin.pushnotification.3.1.1.nupkg.sha512"
     },
     "sqlite-net-pcl/1.5.231": {
       "type": "package",

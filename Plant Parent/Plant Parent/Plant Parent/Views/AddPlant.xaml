@@ -36,7 +36,7 @@
                    HorizontalOptions="FillAndExpand"
                    x:Name="water"
                    FontSize="Medium" />
-            <Button Text="SAVE CONTACT"
+            <Button Text="SAVE PLANT"
                     Clicked="Button_Clicked"
                     Command="{Binding addPlantCommand}"/>
             <Button Text="RETURN"

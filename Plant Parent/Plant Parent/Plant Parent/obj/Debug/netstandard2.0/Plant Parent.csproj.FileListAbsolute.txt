@@ -14,3 +14,20 @@ C:\Users\John\Documents\GIMM\440\PlantParent\Plant Parent\Plant Parent\Plant Par
 C:\Users\John\Documents\GIMM\440\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Views\AddPlant.xaml.g.cs
 C:\Users\John\Documents\GIMM\440\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Views\EditDeletePlantViewPage.xaml.g.cs
 C:\Users\John\Documents\GIMM\440\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Views\PlantList.xaml.g.cs
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\bin\Debug\netstandard2.0\Plant Parent.deps.json
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\bin\Debug\netstandard2.0\Plant Parent.dll
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\bin\Debug\netstandard2.0\Plant Parent.pdb
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Plant Parent.csprojAssemblyReference.cache
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Views\AddPlant.xaml.g.cs
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Views\EditDeletePlantViewPage.xaml.g.cs
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Views\PlantList.xaml.g.cs
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Plant Parent.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Plant Parent.AssemblyInfoInputs.cache
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Plant Parent.AssemblyInfo.cs
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Plant Parent.csproj.CopyComplete
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Plant Parent.dll
+C:\Users\John\Documents\GitHub\PlantParent\Plant Parent\Plant Parent\Plant Parent\obj\Debug\netstandard2.0\Plant Parent.pdb

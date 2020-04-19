@@ -7384,11 +7384,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Documents\\GIMM\\440\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.UWP\\Plant Parent.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Documents\\GitHub\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.UWP\\Plant Parent.UWP.csproj",
       "projectName": "Plant Parent.UWP",
-      "projectPath": "C:\\Users\\John\\Documents\\GIMM\\440\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.UWP\\Plant Parent.UWP.csproj",
+      "projectPath": "C:\\Users\\John\\Documents\\GitHub\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.UWP\\Plant Parent.UWP.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Documents\\GIMM\\440\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.UWP\\obj\\",
+      "outputPath": "C:\\Users\\John\\Documents\\GitHub\\PlantParent\\Plant Parent\\Plant Parent\\Plant Parent.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
