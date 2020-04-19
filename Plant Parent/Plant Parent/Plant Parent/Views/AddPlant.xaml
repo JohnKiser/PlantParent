@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Plant_Parent.ViewModel"
+             x:Class="Plant_Parent.Views.AddPlant">
+    <ContentPage.BindingContext>
+        <local:PlantViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Margin="15">
+            <Label Text="Plant:"
+                   FontSize="Large" />
+            <Entry Placeholder="Enter Plant Type"
+                   Text="{Binding PlantType, Mode=TwoWay}"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="plantType"
+                   FontSize="Medium" />
+            <Label Text="Container:"
+                   FontSize="Large" />
+            <Entry Placeholder="Enter Plant Container i.e. 'Blue Pot'"
+                   Text="{Binding Container, Mode=TwoWay}"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="container"
+                   FontSize="Medium" />
+            <Label Text="Room:"
+                   FontSize="Large" />
+            <Entry Placeholder="Enter Room Where Plant is Located"
+                   Text="{Binding Room, Mode=TwoWay}"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="room"
+                   FontSize="Medium" />
+            <Label Text="How Often to Water:"
+                   FontSize="Large" />
+            <Entry Placeholder="Enter How Often the Plant Should be Watered"
+                   Text="{Binding Water, Mode=TwoWay}"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="water"
+                   FontSize="Medium" />
+            <Button Text="SAVE CONTACT"
+                    Clicked="Button_Clicked"
+                    Command="{Binding addPlantCommand}"/>
+            <Button Text="RETURN"
+                    Clicked="Button_Clicked_1" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

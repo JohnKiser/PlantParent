@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Plant_Parent.ViewModel"
+             x:Class="Plant_Parent.Views.EditDeletePlantViewPage">
+    <ContentPage.BindingContext>
+        <local:PlantViewModel/>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout Margin="15">
+            <Label Text="Plant:"
+                   FontSize="Large" />
+            <Entry Placeholder="Enter Plant Type"
+                   Text="{Binding SelectedPlant.PlantType, Mode=TwoWay}"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="plantType"
+                   FontSize="Medium" />
+            <Label Text="Container:"
+                   FontSize="Large" />
+            <Entry Placeholder="Enter Plant Container i.e. 'Blue Pot'"
+                   Text="{Binding SelectedPlant.Container, Mode=TwoWay}"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="container"
+                   FontSize="Medium" />
+            <Label Text="Room:"
+                   FontSize="Large" />
+            <Entry Placeholder="Enter Room the Plant is Located"
+                   Text="{Binding SelectedPlant.Room, Mode=TwoWay}"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="room"
+                   FontSize="Medium" />
+            <Label Text="How Often to Water:"
+                   FontSize="Large" />
+            <Entry Placeholder="How Many Days Between Waterings"
+                   Text="{Binding SelectedPlant.Water, Mode=TwoWay}"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="water"
+                   FontSize="Medium" />
+            <Button Text="SAVE EDIT"
+                    Command="{Binding savePlantCommand}"
+                    Clicked="Button_Clicked_2"/>
+            <Button Text="CANCEL EDIT"
+                    Clicked="Button_Clicked" />
+            <Button Text="DELETE PLANT"
+                    Command="{Binding deletePlantCommand}"
+                    Clicked="Button_Clicked_1" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
